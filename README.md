@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J-A-Z-Y
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning MATLAB & SIMULINK
+- 👀 I’m interested in MATLAB & SIMULINK Programming
+
 
 
 <!---
